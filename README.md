@@ -1,7 +1,7 @@
 # Jimicization-Project
-A game made on RPG Maker VX Ace.
+Official Title: Petualangan Jimi Si Raja Harem
 
-Description: 
+
 Banjarmachine adalah sebuah negeri yang tenteram,
 rakyatnya hidup sejahtera, hari-hari bahagia selalu 
 terjadi di negeri ini. Namun, semua itu berubah
