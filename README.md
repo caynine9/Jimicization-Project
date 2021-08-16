@@ -18,5 +18,5 @@ Clone repositori dengan menggunakan `git`, Ganti direktori ke folder kosong.
 * and more to come...
 
 ## Kontributor
-* `Odehnn` - mapper, character design
+* `Odehnn` - mapping, character design, story
 * `caynine9` - scripting, eventing
