@@ -11,4 +11,8 @@ Clone repositori dengan menggunakan `git`, Ganti direktori ke folder kosong.
 
 * Menggunakan HTTPS: `git clone https://github.com/caynine9/Jimicization-Project.git`
 
-* Menggunakan Github SSH `git@github.com:caynine9/Jimicization-Project.git` (MEMERLUKAN SSH PUBLIC KEY YANG TERHUBUNG KE AKUN GITHUB) 
+* Menggunakan Github SSH `git@github.com:caynine9/Jimicization-Project.git` (MEMERLUKAN SSH PUBLIC KEY YANG TERHUBUNG KE AKUN GITHUB)
+
+## Resources
+* Basic Quest System v1.1a https://forums.rpgmakerweb.com/index.php?threads/basic-quest-system.27446/
+* and more to come...
