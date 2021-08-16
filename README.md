@@ -16,3 +16,7 @@ Clone repositori dengan menggunakan `git`, Ganti direktori ke folder kosong.
 ## Resources
 * Basic Quest System v1.1a by Vlue https://forums.rpgmakerweb.com/index.php?threads/basic-quest-system.27446/
 * and more to come...
+
+## Kontributor
+* `Odehnn` - mapper, character design
+* `caynine9` - scripting, eventing
