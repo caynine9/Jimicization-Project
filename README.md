@@ -6,7 +6,9 @@ Yang diperlukan:
 * RPG MAKER VX ACE
 
 Tahap-tahap instalasi:
+
 Clone repositori dengan menggunakan `git`, Ganti direktori ke folder kosong.
+
 * Menggunakan HTTPS: `git clone https://github.com/caynine9/Jimicization-Project.git`
 
 * Menggunakan Github SSH `git@github.com:caynine9/Jimicization-Project.git` (MEMERLUKAN SSH PUBLIC KEY YANG TERHUBUNG KE AKUN GITHUB) 
