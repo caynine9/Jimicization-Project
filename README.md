@@ -1,6 +1,8 @@
 # Jimicization-Project
 Proyek game yang dibuat di RPG MAKER VX ACE
 
+MASIH DALAM PENGEMBANGAN! 
+
 ## Instalasi 
 Yang diperlukan:
 * RPG MAKER VX ACE
