@@ -15,7 +15,7 @@ Clone repositori dengan menggunakan `git`, Ganti direktori ke folder kosong.
 
 * **Menggunakan Github SSH:** `git@github.com:caynine9/Jimicization-Project.git` (MEMERLUKAN SSH PUBLIC KEY YANG TERHUBUNG KE AKUN GITHUB)
 
-* **Untuk memainkan game, pastikan sudah menginstal RPG MAKER RTP**
+* Untuk memainkan game, pastikan sudah menginstal **RPG MAKER RTP**
 
 ## Screenshots
 ![Game_eGW043Hl6w](https://user-images.githubusercontent.com/67428844/225572718-8f7919d2-16d6-4085-aca1-2f47900d998b.png)
