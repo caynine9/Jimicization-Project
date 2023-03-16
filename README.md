@@ -23,7 +23,6 @@ Clone repositori dengan menggunakan `git`, Ganti direktori ke folder kosong.
 ![Game_xKjEmKe6EH](https://user-images.githubusercontent.com/67428844/225573113-6d24fb3d-7783-4013-999d-6e2c7e35ac26.png)
 ![Game_BnO91RG3RN](https://user-images.githubusercontent.com/67428844/225573140-955a0fd9-718d-431d-a2f3-6e29c4201784.png)
 </p>
-
 ## Resources
 * Basic Quest System v1.1a by Vlue https://forums.rpgmakerweb.com/index.php?threads/basic-quest-system.27446/
 * and more to come...
